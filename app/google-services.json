@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38098818354",
+    "project_id": "memorizer-8936d",
+    "storage_bucket": "memorizer-8936d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38098818354:android:1415aa1df3ce51dd94732b",
+        "android_client_info": {
+          "package_name": "com.example.memorizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38098818354-tqntppbihd3fmpf2b9ra4ohkipp7oa46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaCldy9DDo5Q-AE_ap9JiflhV6UIsGcqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38098818354-tqntppbihd3fmpf2b9ra4ohkipp7oa46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
